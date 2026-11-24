@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Gameplay Interaction Framework",
+	"Description": "A modular, scalable, extensible, and high-performance interaction framework with authoritative replication, GameplayTag driven states, and smart interaction points.",
+	"Category": "Gameplay",
+	"CreatedBy": "SHANKHARAJ DATTA",
+	"CreatedByURL": "https://www.linkedin.com/in/shankharaj-datta-45921a28a/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.8.0",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "GameplayInteractionFramework",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "GameplayInteractionFrameworkTests",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

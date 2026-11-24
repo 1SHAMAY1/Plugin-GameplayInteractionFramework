@@ -1,0 +1,8 @@
+{
+	"BuildId": "55116800",
+	"Modules": 
+	{
+		"GameplayInteractionFramework": "UnrealEditor-GameplayInteractionFramework.dll",
+		"GameplayInteractionFrameworkTests": "UnrealEditor-GameplayInteractionFrameworkTests.dll"
+	}
+}

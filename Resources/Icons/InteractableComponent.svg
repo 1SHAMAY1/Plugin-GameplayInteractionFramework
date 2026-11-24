@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Core Diamond Beacon -->
+  <polygon points="32,16 48,32 32,48 16,32" fill="white" />
+  <circle cx="32" cy="32" r="4" fill="black" />
+  <!-- Left Radiating Arcs -->
+  <path d="M 14,23 A 18,18 0 0,0 14,41" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" />
+  <path d="M 8,16 A 25,25 0 0,0 8,48" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" />
+  <!-- Right Radiating Arcs -->
+  <path d="M 50,23 A 18,18 0 0,1 50,41" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" />
+  <path d="M 56,16 A 25,25 0 0,1 56,48" fill="none" stroke="white" stroke-width="3" stroke-linecap="round" />
+</svg>
