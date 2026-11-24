@@ -83,7 +83,7 @@ GameplayInteractionFramework/
 │   │   │   └── UI/                     # Prompt widget base
 │   │   └── Private/                    # Implementation files
 │   └── GameplayInteractionFrameworkTests/ # Automated regression suite
-│       └── Private/Tests/              # 36 automated unit & stress tests
+│       └── Private/Tests/              # 40 automated unit & stress tests
 ├── LICENSE                             # License terms
 ├── README.md                           # Overview & architectural reference
 ├── USER_GUIDE.md                       # Complete step-by-step user manual
